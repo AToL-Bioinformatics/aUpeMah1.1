@@ -1,0 +1,5 @@
+
+- id: aUpeMah1
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-690012-m84118_260904_052430_s1.fastq.gz

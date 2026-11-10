@@ -1,0 +1,29 @@
+{
+  "assembly_version": 1,
+  "dataset_id": "aUpeMah1",
+  "scientific_name": "Uperoleia mahonyi",
+  "taxon_id": 1855665,
+  "busco_odb10_dataset_name": "tetrapoda",
+  "busco_odb12_dataset_name": "tetrapoda",
+  "ncbi_class": "Amphibia",
+  "hic_motif": "GATC,GANTC,CTNAG,TTAA",
+  "mitochondrial_genetic_code_id": 2,
+  "mitohifi_reference_species": "Platyplectrum melanopyga",
+  "oatk_hmm_name": "amphibia",
+  "augustus_dataset_name": "tiberius_model_cfg:vertebrates.yaml",
+  "genetic_code_id": 1,
+  "assembly_id": "b92919a0-ed7c-4c1f-9d56-4342f4dfc474",
+  "read_files": [
+    {
+      "name": "bpa-tsi-pacbio-hifi-690012-m84118_260904_052430_s1",
+      "data_type": "PACBIO_SMRT",
+      "base_url": "https://downloads-qcif.bioplatforms.com/bpa/tsi_staging/pacbio-hifi/BPAOPS-2211/20260904_TSI_BRF_m84118_260904_052430_s1/",
+      "single_end": [
+        {
+          "url": "https://data.bioplatforms.com/dataset/bpa-tsi-pacbio-hifi-690012-m84118_260904_052430_s1/resource/bbf899fe98ea956752c08d00ed9c8e80/download/690012_TSI_BRF_m84118_260904_052430_s1.hifi_reads.bc2029.bam",
+          "md5sum": "bbf899fe98ea956752c08d00ed9c8e80"
+        }
+      ]
+    }
+  ]
+}

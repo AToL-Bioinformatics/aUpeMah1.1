@@ -1,0 +1,8 @@
+reads_path:
+  - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-690012-m84118_260904_052430_s1.fastq.gz
+reads_type: "hifi"
+reads_layout: "SINGLE"
+sample_id: "aUpeMah1"
+scientific_name: "Uperoleia mahonyi"
+busco_lineages: "tetrapoda_odb10"
+taxid: 1855665
